@@ -1,0 +1,10 @@
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\obj\Debug\MG_Reserva.csprojAssemblyReference.cache
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\obj\Debug\MG_Reserva.Properties.Resources.resources
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\obj\Debug\MG_Reserva.Gerenciador.resources
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\obj\Debug\MG_Reserva.csproj.GenerateResource.cache
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\obj\Debug\MG_Reserva.csproj.CoreCompileInputs.cache
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\bin\Debug\MG_Reserva.exe.config
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\bin\Debug\MG_Reserva.exe
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\bin\Debug\MG_Reserva.pdb
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\obj\Debug\MG_Reserva.exe
+C:\Users\elied\source\repos\MG_Reserva\MG_Reserva\obj\Debug\MG_Reserva.pdb
